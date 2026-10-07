@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1rqrv3yOSOtx2uHrr18yJ3bxKuR1pPjq-/view?usp=sharing" alt="Banner" height=25px width="100%"/> 
+<img src="https://drive.google.com/file/d/1rqrv3yOSOtx2uHrr18yJ3bxKuR1pPjq-/view?usp=sharing" alt="Banner" height=25px width=30px /> 
 
 <h1 align="center">Hola, yo soy HarritoDev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
