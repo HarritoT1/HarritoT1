@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola, yo soy HarritoDev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3504&pause=1000&color=472EF7&width=435&lines=Desarrollador+de+software;Especialidad+en+desarrollo+web;Ingeniero+en+Sistemas+Computacionales;En+constante+crecimiento)](https://git.io/typing-svg)
 </p>
 
 
@@ -54,7 +54,7 @@
 
 
 
-## 🛠️ My Skills
+## 🛠️ Mis habilidades
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
