@@ -41,7 +41,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Mis perfiles de programación competitiva
 
 <p align="center">
-	<a href="https://codeacademypro.onrender.com/"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
+	<a href="https://codeacademypro.onrender.com/"><img src="https://github.com/HarritoT1/HarritoT1/blob/main/logo.png" alt="Logo CodeAcademyPro" width = 60px /></a>     
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
