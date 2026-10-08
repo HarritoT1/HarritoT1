@@ -123,7 +123,7 @@
 ---
 
 <p align = "center">
-	<img alt="phrase" src="https://github.com/HarritoT1/HarritoT1/blob/main/img/Gemini_Generated_Image_p2wix9p2wix9p2wi.jpeg" width=500px height=auto>
+	<img alt="phrase" src="https://github.com/HarritoT1/HarritoT1/blob/main/img/Gemini_Generated_Image_p2wix9p2wix9p2wi.jpeg" width=650px height=auto>
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadísticas de Github 
@@ -145,7 +145,7 @@
 </div>
 </details>
 
-</br></br>
+</br>
 	
 ## 🐍 Una serpiente comiendose mis contribuciones...
 	
