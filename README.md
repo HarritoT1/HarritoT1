@@ -26,7 +26,7 @@
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Mis perfiles de programación competitiva
+## <picture> <img src="https://github.com/HarritoT1/HarritoT1/blob/main/img/programacion-web.png" width=40> </picture> Mis perfiles de programación competitiva
 
 <p align="center">
 	<a href="https://codeacademypro.onrender.com/"><img src="https://github.com/HarritoT1/HarritoT1/blob/main/logo.png" alt="Logo CodeAcademyPro" width = 60px /></a>     
@@ -58,21 +58,21 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frameworks y Librerías web:
+### <picture> <img src = "https://github.com/HarritoT1/HarritoT1/blob/main/img/feature-photo.gif" width = 50px>  </picture> Frameworks y Librerías web:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,express,dotnet,wasm" />
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Bases de Datos:
+### <picture> <img src = "https://github.com/HarritoT1/HarritoT1/blob/main/img/v7mCG4aEQx.gif" width = 50px>  </picture> Bases de Datos:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Modelado y Diseño:
+### <picture> <img src = "https://github.com/HarritoT1/HarritoT1/blob/main/img/02-original.webp" width = 50px>  </picture> Modelado y Diseño:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma" />
