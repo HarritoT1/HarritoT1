@@ -6,15 +6,8 @@
 </p>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
+	![Desarrollador Activo](https://img.shields.io/badge/Desarrollador-Activo-181717?style=for-the-badge&logo=github&logoColor=white)
+	![Full Stack Developer](https://img.shields.io/badge/Full_Stack-Developer-0A0A0A?style=for-the-badge&logo=stackblitz&logoColor=white)
 
 </p>
 
@@ -25,8 +18,8 @@
 
 <br><br>
 
-- :school: Graduado del Instituto Tecnológico de Tláhuac.
-- :trophy: Ingeniería en sistemas computacionales (GPA: 96.4). Títulado.
+- :school: Graduado del `Instituto Tecnológico de Tláhuac`.
+- :trophy: Ingeniería en sistemas computacionales `(GPA: 96.4)`. Títulado.
 - :technologist: Me encanta crear soluciones para distintos `problemas` de software.
 - :computer: Soy un desarrollador competitivo, mi especialidad es el `desarrollo web`.
 - :student: Actualmente estoy aprendiendo sobre `Ciencias de la computación` e `Ingeniería de software`.
