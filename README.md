@@ -1,6 +1,7 @@
 <img src="https://github.com/HarritoT1/HarritoT1/blob/main/BANNER.png" alt="Banner" height="auto" width="100%" /> 
 
 <h1 align="center">Hola, yo soy HarritoDev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=3504&pause=1000&color=472EF7&width=435&lines=Desarrollador+de+software...%E2%8C%A8%EF%B8%8F%F0%9F%96%B1%EF%B8%8F;Especialidad+en+desarrollo+web...%F0%9F%96%A5%EF%B8%8F;Ingeniero+en+Sistemas+Computacionales...%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;En+constante+crecimiento...%F0%9F%8C%B1" alt="Typing SVG" /></a>
 </p>
@@ -122,7 +123,7 @@
 ---
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<img alt="phrase" src="https://github.com/HarritoT1/HarritoT1/blob/main/img/Gemini_Generated_Image_p2wix9p2wix9p2wi.jpeg" width=200px alt=auto>
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
