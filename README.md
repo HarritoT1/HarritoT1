@@ -132,17 +132,16 @@
 
 ----
 	
-<div>
-  <p align="center" width="50%">
+<div align="center">
 	<a href="https://github.com/HarritoT1/sgvap_vs_1_0">
-      	<img src="https://github.com/HarritoT1/HarritoT1/blob/main/img/Screenshot%202026-10-07%20194610.png" alt="sgvap" />
+      	<img src="https://github.com/HarritoT1/HarritoT1/blob/main/img/Screenshot%202026-10-07%20194610.png" alt="sgvap" width="45%" />
     </a>
-  </p>
-  <p align="center" width="50%">
-	<a href="https://github.com/HarritoT1/sgvap_vs_1_0">
-      	<img src="https://github.com/HarritoT1/HarritoT1/blob/main/img/Screenshot%202026-10-07%20194610.png" alt="sgvap" />
+	<a href="https://github.com/HarritoT1/CodeAcademyPro_V_1_0_2026">
+      	<img src="https://github.com/HarritoT1/HarritoT1/blob/main/img/Screenshot%202026-10-07%20194618%20-%20Copy.png" alt="codeacademypro" width="45%" />
     </a>
-  </p>
+	<a href="https://github.com/HarritoT1/Plantify">
+      	<img src="https://github.com/HarritoT1/HarritoT1/blob/main/img/Screenshot%202026-10-07%20194623%20-%20Copy.png" alt="plantify" width="45%" />
+    </a>
 </div>
 </details>
 
