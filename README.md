@@ -5,8 +5,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=3504&pause=1000&color=472EF7&width=435&lines=Desarrollador+de+software...%E2%8C%A8%EF%B8%8F%F0%9F%96%B1%EF%B8%8F;Especialidad+en+desarrollo+web...%F0%9F%96%A5%EF%B8%8F;Ingeniero+en+Sistemas+Computacionales...%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;En+constante+crecimiento...%F0%9F%8C%B1" alt="Typing SVG" /></a>
 </p>
 
-![Desarrollador Activo](https://img.shields.io/badge/Desarrollador-Activo-181717?style=for-the-badge&logo=github&logoColor=white)
-![Full Stack Developer](https://img.shields.io/badge/Full_Stack-Developer-0A0A0A?style=for-the-badge&logo=stackblitz&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Desarrollador-Activo-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-0A0A0A?style=for-the-badge&logo=stackblitz&logoColor=white">
+</p>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
